@@ -2,4 +2,4 @@
 
 https://velog.io/@gene028/JavaScript-%EB%B0%94%EB%8B%90%EB%9D%BC-JS%EB%A1%9C-TodoList-%EB%A7%8C%EB%93%A4%EA%B8%B0
 
-1. html로 뼈대 만들기
+1. html로 뼈대 만들기.
